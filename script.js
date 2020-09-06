@@ -1,5 +1,5 @@
 function updateGreeting(){
-    $('#greetings').html('Hellow, World!!')
+    $('#greetings').html('Hello, World!!')
 }
 
 
